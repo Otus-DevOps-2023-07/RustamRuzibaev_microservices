@@ -1,0 +1,4 @@
+REPOSITORY                       TAG       IMAGE ID       CREATED          SIZE
+rustamruzibaev/ubuntu-tmp-file   latest    e37b98dc905e   54 seconds ago   63.2MB
+ubuntu                           18.04     f9a80a55f492   7 months ago     63.2MB
+hello-world                      latest    d2c94e258dcb   8 months ago     13.3kB
